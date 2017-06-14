@@ -6,7 +6,8 @@
   "keywords": [
     "leaflet",
     "solr",
-    "heatmap"
+    "heatmap",
+    "geostats"
   ],
   "authors": [
     "Jack Reed"
